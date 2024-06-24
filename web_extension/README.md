@@ -51,6 +51,9 @@ Create a `manifest.json` in the `public` folder
     },
     "web_accessible_resources": [
         "script.js"
+    ],
+    "permissions": [
+        "storage"
     ]
 }
 ```
